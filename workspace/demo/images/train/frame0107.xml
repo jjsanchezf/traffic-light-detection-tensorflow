@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>frame0107.jpg</filename>
+	<path>/home/jobvakayil/test/frame0107.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RED</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>741</xmin>
+			<ymin>532</ymin>
+			<xmax>774</xmax>
+			<ymax>590</ymax>
+		</bndbox>
+	</object>
+</annotation>
